@@ -12262,7 +12262,7 @@
 		)
 		(uuid "2420cd49-8418-45de-a743-362df6cb20d4")
 	)
-	(label "CAN1_L"
+	(label "CAN1_N"
 		(at 88.9 262.89 0)
 		(effects
 			(font
@@ -12272,7 +12272,7 @@
 		)
 		(uuid "24ceb266-60ad-4dfb-aaf9-d25a6bb3fc55")
 	)
-	(label "CAN1_H"
+	(label "CAN1_P"
 		(at 88.9 254 0)
 		(effects
 			(font
@@ -12392,7 +12392,7 @@
 		)
 		(uuid "567c8c5f-5ce2-47de-b847-70df4c64c5c1")
 	)
-	(label "CAN1_L"
+	(label "CAN1_N"
 		(at 44.45 58.42 180)
 		(effects
 			(font
@@ -12482,7 +12482,7 @@
 		)
 		(uuid "75567735-f5d8-451c-843c-a83e4e89be89")
 	)
-	(label "CAN2_L"
+	(label "CAN2_N"
 		(at 44.45 63.5 180)
 		(effects
 			(font
@@ -12512,7 +12512,7 @@
 		)
 		(uuid "78da37ff-b485-42ae-87be-75e0ffb9199f")
 	)
-	(label "CAN2_H"
+	(label "CAN2_P"
 		(at 44.45 66.04 180)
 		(effects
 			(font
@@ -12582,7 +12582,7 @@
 		)
 		(uuid "93d32510-5eb9-44c2-9f8c-305d97b1f54e")
 	)
-	(label "CAN1_H"
+	(label "CAN1_P"
 		(at 44.45 60.96 180)
 		(effects
 			(font
@@ -12712,7 +12712,7 @@
 		)
 		(uuid "d19fd43c-a944-4e09-9d1f-a01e79d80237")
 	)
-	(label "CAN2_H"
+	(label "CAN2_P"
 		(at 152.4 252.73 0)
 		(effects
 			(font
@@ -12752,7 +12752,7 @@
 		)
 		(uuid "f223130a-3288-45ea-91e7-7b4299a62993")
 	)
-	(label "CAN2_L"
+	(label "CAN2_N"
 		(at 152.4 264.16 0)
 		(effects
 			(font
