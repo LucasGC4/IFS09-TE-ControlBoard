@@ -201,7 +201,7 @@ As defined in the Work Order, once the board is assembled:
 ## 8. Author & Credits
 
 * **Subsystem:** Electronics & Control (CE)
-* **Author:** Lucas
+* **Author:** Lucas García Cucala
 * **Mentorship & Review:** Carlota Treviño, Félix González, Inés Pacheco, Andrés Sánchez de Ágreda
 * **Team:** [ISC Formula Student Racing Team](https://www.comillas.edu/) — Universidad Pontificia Comillas (ICAI)
 * **Season:** 2026 / 2027
